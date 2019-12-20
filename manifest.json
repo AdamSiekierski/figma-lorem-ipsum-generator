@@ -1,0 +1,7 @@
+{
+  "name": "Lorem Ipsum Generator",
+  "id": "742039398983091764",
+  "api": "1.0.0",
+  "main": "build/code.js",
+  "ui": "build/ui.html"
+}
